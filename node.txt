@@ -1,1 +1,5 @@
 # 节点列表
+
+# AWS节点
+
+ssr://NTIuNTMuMTYzLjExNjo2NjY2OmF1dGhfc2hhMV92NDphZXMtMjU2LWNmYjpwbGFpbjplV0Z1WW04
